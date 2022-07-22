@@ -1,0 +1,31 @@
+#nav{
+    /* border: 2px solid blue; */
+    height: 10%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color:#00253C;
+
+}
+#nav img{
+    height: 80px;
+    width: 150px;
+}
+.sign ,.log{
+    /* border: 2px solid    green; */
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    margin: 0px 100px;
+    color: white;
+}
+.log{
+    width: 20%;
+}
+#travels{
+    height: 50%;
+    background-color: #00253C;
+    color: white;
+    border: none;
+    
+}
